@@ -37,10 +37,10 @@ A passionate engineer with strong foundations in AI, full-stack development, and
 - **Smart Cricket LED Stumps (Thesis)**
 
 IEEE/ACM Publications:  
-[Paper 1](https://ieeexplore.ieee.org/document/10534381) • 
-[Paper 2](https://ieeexplore.ieee.org/document/10212394) • 
-[Paper 3](https://ieeexplore.ieee.org/document/11022571) • 
-[ACM Paper](https://dl.acm.org/doi/10.1145/3723178.3723254)
+[1 Paper](https://ieeexplore.ieee.org/document/10534381) • 
+ [2 Paper](https://ieeexplore.ieee.org/document/10212394) • 
+ [3 Paper ](https://ieeexplore.ieee.org/document/11022571) • 
+ [4 ACM Paper](https://dl.acm.org/doi/10.1145/3723178.3723254)
 
 ---
 
