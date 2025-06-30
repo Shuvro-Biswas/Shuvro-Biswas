@@ -21,6 +21,14 @@ A passionate engineer with strong foundations in AI, full-stack development, and
 
 ---
 
+##  Education
+
+- **MSc in CSE – RUET (Enrolled)**
+- **BSc in Mechatronics – RUET (CGPA 3.57)**
+- **HSC in Science – Ideal College, Dhaka (GPA 5.00)**
+
+---
+
 ##  Research
 
 - **AI vs Real Image Classification** (IEEE, 2024)
@@ -49,13 +57,6 @@ IEEE/ACM Publications:
 
 ---
 
-##  Education
-
-- MSc in CSE – RUET (Enrolled)
-- BSc in Mechatronics – RUET (CGPA 3.57)
-- HSC in Science – Ideal College, Dhaka (GPA 5.00)
-
----
 
 ##  Certifications
 
