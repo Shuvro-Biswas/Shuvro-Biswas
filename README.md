@@ -8,6 +8,16 @@ A passionate engineer with strong foundations in AI, full-stack development, and
 
 ---
 
+## 🔧 Tech Stack
+
+**Languages:** Python, C++, Java, JavaScript, C  
+**Frameworks:** Laravel, React.js, Django, Flask, Spring Boot, FastAPI, Node.js  
+**Databases:** PostgreSQL, MySQL, Oracle  
+**AI/ML:** Deep Learning, NLP, LLMs, CNNs, OCR  
+**Tools:** Git, CI/CD, REST API, Agile/Scrum
+
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
@@ -21,7 +31,7 @@ A passionate engineer with strong foundations in AI, full-stack development, and
 
 ---
 
-##  Research
+## 📚 Research
 
 - **AI vs Real Image Classification** (IEEE, 2024)
 - **Brain Tumor Detection using Hybrid CNN & Attention**
@@ -36,7 +46,7 @@ IEEE/ACM Publications:
 
 ---
 
-## 🛠 Projects
+## 🛠️ Projects
 
 | Project                            | Tech Stack                      | Link |
 |------------------------------------|----------------------------------|------|
@@ -49,7 +59,7 @@ IEEE/ACM Publications:
 
 ---
 
-##  Education
+## 🎓 Education
 
 - MSc in CSE – RUET (Enrolled)
 - BSc in Mechatronics – RUET (CGPA 3.57)
@@ -57,14 +67,14 @@ IEEE/ACM Publications:
 
 ---
 
-##  Certifications
+## 📜 Certifications
 
 - [Python for Data Science – Coursera](https://www.coursera.org/account/accomplishments/verify/ZASZZ24YC9R6)
 - [Python Project for Data Science – Coursera](https://www.coursera.org/account/accomplishments/verify/TBJJ6WGRHKEH)
 
 ---
 
-##  Achievements
+## 🏆 Achievements
 
 - Technical Board Scholarship (3x)
 - National Champion in Rabindra, Nazrul & Desh Gaan
@@ -73,7 +83,7 @@ IEEE/ACM Publications:
 
 ---
 
-##  Contact
+## 📫 Contact
 
 - Email: suvrobiswas555@gmail.com  
 - Portfolio: [shuvrobiswasprotfolio.vercel.app](https://shuvrobiswasprotfolio.vercel.app)  
