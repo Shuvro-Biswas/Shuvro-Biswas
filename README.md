@@ -8,30 +8,20 @@ A passionate engineer with strong foundations in AI, full-stack development, and
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages:** Python, C++, Java, JavaScript, C  
-**Frameworks:** Laravel, React.js, Django, Flask, Spring Boot, FastAPI, Node.js  
-**Databases:** PostgreSQL, MySQL, Oracle  
-**AI/ML:** Deep Learning, NLP, LLMs, CNNs, OCR  
-**Tools:** Git, CI/CD, REST API, Agile/Scrum
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snighdho&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=snighdho&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shuvro-Biswas&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Shuvro-Biswas&theme=default&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snighdho&layout=compact&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvro-Biswas&layout=compact&hide_border=true" width="50%" />
 </p>
 
 ---
 
-## 📚 Research
+##  Research
 
 - **AI vs Real Image Classification** (IEEE, 2024)
 - **Brain Tumor Detection using Hybrid CNN & Attention**
@@ -46,7 +36,7 @@ IEEE/ACM Publications:
 
 ---
 
-## 🛠️ Projects
+##  Projects
 
 | Project                            | Tech Stack                      | Link |
 |------------------------------------|----------------------------------|------|
@@ -59,7 +49,7 @@ IEEE/ACM Publications:
 
 ---
 
-## 🎓 Education
+##  Education
 
 - MSc in CSE – RUET (Enrolled)
 - BSc in Mechatronics – RUET (CGPA 3.57)
@@ -67,14 +57,14 @@ IEEE/ACM Publications:
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - [Python for Data Science – Coursera](https://www.coursera.org/account/accomplishments/verify/ZASZZ24YC9R6)
 - [Python Project for Data Science – Coursera](https://www.coursera.org/account/accomplishments/verify/TBJJ6WGRHKEH)
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - Technical Board Scholarship (3x)
 - National Champion in Rabindra, Nazrul & Desh Gaan
@@ -83,7 +73,7 @@ IEEE/ACM Publications:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - Email: suvrobiswas555@gmail.com  
 - Portfolio: [shuvrobiswasprotfolio.vercel.app](https://shuvrobiswasprotfolio.vercel.app)  
