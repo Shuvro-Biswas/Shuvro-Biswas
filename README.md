@@ -1,4 +1,4 @@
-# 👨‍💻 Shuvro Biswas
+# Shuvro Biswas
 
 **Software Engineer | AI Researcher | Full-Stack Developer**  
 Passionate about solving real-world problems through code, AI, and systems thinking. 
@@ -7,7 +7,7 @@ Passionate about solving real-world problems through code, AI, and systems think
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a full-stack software engineer with expertise in **Laravel, React, Django, Spring Boot**, and **Deep Learning**. I’ve built and deployed AI-powered systems, OCR-based tools, fault trackers, and manpower dashboards in industrial environments.
 
@@ -15,18 +15,7 @@ I'm also a **published researcher**, with IEEE/ACM papers focused on **IoT, imag
 
 ---
 
-## 🛠️ Skills
-
-- **Languages:** Python, C++, JavaScript, Java, C
-- **Frameworks:** Laravel, React.js, Django, Flask, FastAPI, Node.js, Spring Boot, TensorFlow, PyTorch
-- **Databases:** PostgreSQL, MySQL, Oracle
-- **AI & ML:** Deep Learning, LLMs, NLP, CNNs, Transfer Learning
-- **DevOps:** Git (GitHub, GitLab, Bitbucket), CI/CD, Agile, Scrum
-- **Problem Solving:** Data Structures & Algorithms, Competitive Programming
-
----
-
-## 📚 Education
+##  Education
 
 **🎓 MSc in Computer Science & Engineering (RUET)** – Enrolled (2025)  
 **🎓 BSc in Mechatronics Engineering (RUET)** – CGPA 3.57/4.00  
@@ -34,42 +23,33 @@ I'm also a **published researcher**, with IEEE/ACM papers focused on **IoT, imag
 
 ---
 
-## 🧠 AI & Research Highlights
+##  AI & Research Highlights
 
-- 🔬 **AI vs Real Image Detection** (IEEE 2024)  
-- 🧠 **Brain Tumor Classification using Hybrid CNN with Channel-wise Attention**  
-- 🏏 **Smart Cricket LED Stump using Deep Learning**  
-- 🏠 **Voice-Controlled Home Automation via IoT**  
-- 🧾 [View IEEE/ACM Papers](https://ieeexplore.ieee.org/document/10534381) | [More Links](https://dl.acm.org/doi/10.1145/3723178.3723254)
+-  **AI vs Real Image Detection** (IEEE 2024)  
+-  **Brain Tumor Classification using Hybrid CNN with Channel-wise Attention**  
+-  **Smart Cricket LED Stump using Deep Learning**  
+-  **Voice-Controlled Home Automation via IoT**  
+-  [View IEEE/ACM Papers](https://ieeexplore.ieee.org/document/10534381) | [More Links](https://dl.acm.org/doi/10.1145/3723178.3723254)
 
 ---
 
-## 🧑‍💻 Featured Projects
+## Featured Projects
 
 | Project | Tech Stack | Links |
 |--------|------------|-------|
-| 🧑‍🏭 **Manpower Dashboard** | Laravel, React, MySQL | [GitHub](https://github.com/snighdho/Manpower) |
-| ⚙️ **Real-Time Fault Entry System** | Laravel, Bootstrap, PostgreSQL | [GitHub](https://github.com/snighdho/wlton_table) |
-| 📱 **Contact Manager (React)** | React.js | [GitHub](https://github.com/snighdho/my_first_website) |
-| 🐍 **TweetBar** | Django | [GitHub](https://github.com/snighdho/djangoProject) |
-| 🔐 **Custom Login System** | Laravel | [GitHub](https://github.com/snighdho/custom_login) |
-| 📦 **CRUD Agency Project** | Laravel, MySQL, Vite | [GitHub](https://github.com/snighdho/Crud_operation_agency_project) |
+| **Manpower Dashboard** | Laravel, React, MySQL | [GitHub](https://github.com/snighdho/Manpower) |
+| **Real-Time Fault Entry System** | Laravel, Bootstrap, PostgreSQL | [GitHub](https://github.com/snighdho/wlton_table) |
+| **Contact Manager (React)** | React.js | [GitHub](https://github.com/snighdho/my_first_website) |
+| **TweetBar** | Django | [GitHub](https://github.com/snighdho/djangoProject) |
+| **Custom Login System** | Laravel | [GitHub](https://github.com/snighdho/custom_login) |
+| **CRUD Agency Project** | Laravel, MySQL, Vite | [GitHub](https://github.com/snighdho/Crud_operation_agency_project) |
 
 ---
 
-## 🏆 Achievements
+## Certificates
 
-- 🥇 **3x National Champion in Nazrul Sangeet, Rabindra Sangeet, and Desh Gaan**
-- 🏆 **Technical Board Scholarship (3 times)** – RUET
-- 🏆 **Champion – Dhaka Utsab (2017)**  
-- 🥈 **1st Runner-Up – Youth Festival (2018)**
-
----
-
-## 🌐 Certificates
-
-- 📜 [Python for Data Science, AI & Development – Coursera](https://www.coursera.org/account/accomplishments/verify/ZASZZ24YC9R6)
-- 📜 [Python Project for Data Science – Coursera](https://www.coursera.org/account/accomplishments/verify/TBJJ6WGRHKEH)
+-  [Python for Data Science, AI & Development – Coursera](https://www.coursera.org/account/accomplishments/verify/ZASZZ24YC9R6)
+-  [Python Project for Data Science – Coursera](https://www.coursera.org/account/accomplishments/verify/TBJJ6WGRHKEH)
 
 ---
 
