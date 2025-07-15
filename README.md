@@ -48,12 +48,13 @@ IEEE/ACM Publications:
 
 | Project                            | Tech Stack                      | Link |
 |------------------------------------|----------------------------------|------|
+| Ecommerce Website(Shopping)        | Spring Boot, React, MySQL       | [GitHub](https://github.com/Shuvro-Biswas/ecomjava) |
+| Hotel Management                   | Spring Boot, React, MySQL       | [GitHub](https://github.com/Shuvro-Biswas/hotel-management)|
+| ProFileMananger                    | Spring Boot, React, MySQL       | [GitHub](https://github.com/Shuvro-Biswas/assignment) |
 | Manpower Dashboard (Walton QM)     | Laravel, React, MySQL           | [GitHub](https://github.com/snighdho/Manpower) |
 | Real-Time Fault Entry System       | Laravel, Bootstrap, PostgreSQL  | [GitHub](https://github.com/snighdho/wlton_table) |
-| Custom Login System                | Laravel                         | [GitHub](https://github.com/snighdho/custom_login) |
-| Contact Manager                    | React.js                        | [GitHub](https://github.com/snighdho/my_first_website) |
-| CRUD Agency Project                | Laravel, Vite, Bootstrap        | [GitHub](https://github.com/snighdho/Crud_operation_agency_project) |
-| TweetBar                           | Django                          | [GitHub](https://github.com/snighdho/djangoProject) |
+| TweetBar                           | Django, MySQL, Bootstrap 5      | [GitHub](https://github.com/snighdho/djangoProject) |
+| LLM(Lyrical_chatbot)               | FastAPI, React.js, OpenRouter   | [GitHub](https://github.com/snighdho/lyrical-chatbot) |
 
 ---
 
